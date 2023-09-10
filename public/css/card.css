@@ -1,0 +1,36 @@
+.card {
+    box-shadow: 0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -2px rgba(0,0,0,.05);
+    overflow: hidden;
+    max-width: 24rem;
+    border-radius: 0.25rem;
+}
+
+.card__imagewrapper {
+    position: relative;
+    padding-bottom: calc(2 / 3 * 100%);
+}
+
+.card img {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.card__content {
+    padding: 1rem 1.5rem;
+}
+
+.card__title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.card__text {
+    color: rgba(74,85,104)
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Apple iPhone 13 Pro Max",
+    "sku": "IPH13PM001",
+    "shortTitle": "iPhone 13 Pro Max",
+    "description": "The latest iPhone with advanced camera system, A15 chip, and 5G capability.",
+    "color": "Graphite",
+    "price": 1099.99,
+    "image": "/images/large/1.jpg"
+  },
+  {
+    "title": "Sony WH-1000XM4 Wireless Headphones",
+    "sku": "SONYWH1000XM4",
+    "shortTitle": "Sony WH-1000XM4",
+    "description": "Noise-cancelling over-ear headphones with exceptional sound quality.",
+    "color": "Black",
+    "price": 349.99,
+    "image": "/images/large/2.jpg"
+  },
+  {
+    "title": "Dyson V11 Animal Cordless Vacuum",
+    "sku": "DYSV11ANI",
+    "shortTitle": "Dyson V11 Animal",
+    "description": "High-suction cordless vacuum designed for homes with pets.",
+    "color": "Purple",
+    "price": 599.99,
+    "image": "/images/large/3.jpg"
+  },
+  {
+    "title": "Samsung Galaxy S21",
+    "sku": "SAMS21BLK",
+    "shortTitle": "Galaxy S21",
+    "description": "Android smartphone with excellent camera and fast performance.",
+    "color": "Phantom Gray",
+    "price": 799.99,
+    "image": "/images/large/4.jpg"
+  },
+  {
+    "title": "Apple Watch Series 7",
+    "sku": "APLWATSER7",
+    "shortTitle": "Apple Watch S7",
+    "description": "Smartwatch with health monitoring and advanced features.",
+    "color": "Silver",
+    "price": 399.99,
+    "image": "/images/large/5.jpg"
+  },
+  {
+    "title": "Nintendo Switch Console",
+    "sku": "NTDOSWTCH",
+    "shortTitle": "Nintendo Switch",
+    "description": "Portable gaming console that can be connected to a TV.",
+    "color": "Neon Red/Neon Blue",
+    "price": 299.99,
+    "image": "/images/large/6.jpg"
+  },
+  {
+    "title": "Microsoft Surface Laptop 4",
+    "sku": "MSFTSURL4",
+    "shortTitle": "Surface Laptop 4",
+    "description": "Laptop with high-resolution screen and excellent performance.",
+    "color": "Platinum",
+    "price": 999.99,
+    "image": "/images/large/7.jpg"
+  },
+  {
+    "title": "Bose SoundLink Revolve Speaker",
+    "sku": "BOSESLRVS",
+    "shortTitle": "Bose SoundLink Revolve",
+    "description": "Portable Bluetooth speaker with 360-degree sound.",
+    "color": "Triple Black",
+    "price": 199.99,
+    "image": "/images/large/8.jpg"
+  },
+  {
+    "title": "Sony PlayStation 5",
+    "sku": "SONYPS5",
+    "shortTitle": "PS5",
+    "description": "Next-generation gaming console with ultra-fast load times.",
+    "color": "White",
+    "price": 499.99,
+    "image": "/images/large/9.jpg"
+  },
+  {
+    "title": "Amazon Echo Dot 4th Generation",
+    "sku": "AMZNECDOT4",
+    "shortTitle": "Echo Dot 4th Gen",
+    "description": "Smart speaker with Alexa, capable of voice recognition.",
+    "color": "Charcoal",
+    "price": 49.99,
+    "image": "/images/large/10.jpg"
+  },
+  {
+    "title": "Samsung 65-inch QLED 4K TV",
+    "sku": "SAM65QLED",
+    "shortTitle": "Samsung 65\" QLED",
+    "description": "65-inch 4K QLED TV with vibrant colors and smart features.",
+    "color": "Black",
+    "price": 1299.99,
+    "image": "/images/large/11.jpg"
+  },
+  {
+    "title": "Apple MacBook Pro 16-inch",
+    "sku": "APLMBP16",
+    "shortTitle": "MacBook Pro 16\"",
+    "description": "Laptop with Retina display, M1 chip, and advanced graphics.",
+    "color": "Space Gray",
+    "price": 2399.99,
+    "image": "/images/large/12.jpg"
+  },
+  {
+    "title": "Nespresso Vertuo Coffee Maker",
+    "sku": "NSPVCM",
+    "shortTitle": "Nespresso Vertuo",
+    "description": "Coffee maker that brews coffee and espresso with one touch.",
+    "color": "Chrome",
+    "price": 159.99,
+    "image": "/images/large/13.jpg"
+  },
+  {
+    "title": "Google Pixel 6 Pro",
+    "sku": "GOOGLPX6P",
+    "shortTitle": "Pixel 6 Pro",
+    "description": "Android smartphone with advanced camera and smooth performance.",
+    "color": "Sorta Sunny",
+    "price": 899.99,
+    "image": "/images/large/14.jpg"
+  },
+  {
+    "title": "Beats Powerbeats Pro",
+    "sku": "BEATSPBP",
+    "shortTitle": "Powerbeats Pro",
+    "description": "Wireless earbuds with superior sound quality and long battery life.",
+    "color": "Black",
+    "price": 249.99,
+    "image": "/images/large/15.jpg"
+  },
+  {
+    "title": "DJI Mavic Air 2 Drone",
+    "sku": "DJIMAVICAIR2",
+    "shortTitle": "Mavic Air 2",
+    "description": "Drone with 4K video recording, 34-min flight time, and smart features.",
+    "color": "Gray",
+    "price": 799.99,
+    "image": "/images/large/16.jpg"
+  },
+  {
+    "title": "Fitbit Versa 3",
+    "sku": "FITBVERS3",
+    "shortTitle": "Fitbit Versa 3",
+    "description": "Health and fitness smartwatch with built-in GPS and heart rate tracking.",
+    "color": "Black",
+    "price": 229.99,
+    "image": "/images/large/17.jpg"
+  },
+  {
+    "title": "GoPro HERO9 Black",
+    "sku": "GOPROH9B",
+    "shortTitle": "GoPro HERO9",
+    "description": "Action camera with 5K video, 20MP photos, and built-in stabilization.",
+    "color": "Black",
+    "price": 399.99,
+    "image": "/images/large/18.jpg"
+  },
+  {
+    "title": "Breville Smart Oven Air",
+    "sku": "BREVSOA",
+    "shortTitle": "Breville Oven Air",
+    "description": "Convection oven with 13 smart cooking functions.",
+    "color": "Stainless Steel",
+    "price": 349.99,
+    "image": "/images/large/19.jpg"
+  },
+  {
+    "title": "Apple iPad Pro 12.9-inch",
+    "sku": "APLIPADPRO",
+    "shortTitle": "iPad Pro 12.9\"",
+    "description": "Powerful tablet with Liquid Retina XDR display and M1 chip.",
+    "color": "Silver",
+    "price": 1099.99,
+    "image": "/images/large/20.jpg"
+  }
+]

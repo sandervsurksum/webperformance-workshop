@@ -1,0 +1,110 @@
+@import url(menu.css);
+@import url(card.css);
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Pacifico');
+
+:root {
+--main-blue: #3953E1;
+}
+
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue",sans-serif;
+    font-size: 16px;
+    border: 0;
+    margin: 0;
+}
+
+header {
+    background-color: var(--main-blue);
+    padding-top: 0.625rem;
+    padding-bottom: 0.625rem;
+    font-family: 'Pacifico', cursive;
+    color: #fff;
+    display: flex;
+}
+
+.logo {
+    height: 4.25rem;
+    width: auto;
+    align-self: flex-start;
+}
+
+.storename {
+    font-size: 2.5rem;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.container {
+    display: flex;
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    padding-left: 1.5rem;
+    flex: 1;
+    padding-right: 1.5rem;    
+}
+
+.hero {
+    display: grid;
+    width: 100%;
+    place-items: center;
+    background-size: cover;
+    background-position: center;
+    min-height: 30rem;
+}
+
+.hero>* {
+    grid-column-start: 1;
+    grid-row-start: 1;
+}
+
+.hero-content {
+    z-index: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 80rem;
+    gap: 1rem;
+    padding: 1rem;
+    color: #fff;
+}
+
+.hero-overlay {
+    grid-column-start: 1;
+    grid-row-start: 1;
+    height: 100%;
+    width: 100%;
+    background-color: hsl(214 20% 21%/0.6);
+    --tw-bg-opacity: .5;
+}
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(auto, minmax(200px, 1fr));
+    grid-gap: 10px;
+    padding: 1rem 0;
+  }
+
+h1 {
+    font-size: 3rem;
+    line-height: 1;
+}
+
+button {
+    display: inline-block;
+    border: none;
+    padding: 1rem 2rem;
+    margin: 0;
+    text-decoration: none;
+    background: #fff;
+    color: #000;
+    font-family: sans-serif;
+    font-size: 1rem;
+    line-height: 1;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 8px;
+}
