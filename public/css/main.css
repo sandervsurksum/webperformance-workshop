@@ -83,9 +83,9 @@ header {
 
 .products {
     display: grid;
-    grid-template-columns: repeat(auto, minmax(200px, 1fr));
-    grid-gap: 10px;
-    padding: 1rem 0;
+    grid-gap: 15px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    padding: 1rem;
   }
 
 h1 {
