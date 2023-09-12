@@ -108,3 +108,14 @@ button {
     text-align: center;
     border-radius: 8px;
 }
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+#slug {
+    font-size: 10rem;
+}

@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Iron/Our E-Commerce website</title>
+    <title>E-Commerce website</title>
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
-    <script src="main.js" async></script>    
+    <script src="toggle.js" async></script>    
     <link rel="stylesheet" href="css/main.css">
     <script src="https://slowfil.es/file?type=js&delay=2500"></script>
 </head>
@@ -35,9 +35,13 @@
               </div>
             </div>
         </div>        
-        
-        <section id="products" class="container products">
 
+        <section class="flex-column">
+            <div id="slug" class="">🐌</div>
+
+            <label for="stepper">Blocking operations (*100k)</label> 
+            <input name="stepper" type="number" step="1" value="0"> 
+            <button id="toggle">Toggle</button>
         </section>
         
     </main>
